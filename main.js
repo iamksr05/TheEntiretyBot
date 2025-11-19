@@ -39,7 +39,6 @@ client.on('ready', async () => {
     })
 });
 
-
 client.commands = new Discord.Collection();
 client.events = new Discord.Collection();
 
